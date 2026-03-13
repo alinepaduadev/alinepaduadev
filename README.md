@@ -1,4 +1,4 @@
-# Oi, eu sou a Aline de Pádua 👋
+# Oi, eu sou a Aline Pádua 👋
 
 Senior Frontend UI Developer com mais de 8 anos de experiência na criação de interfaces ricas, funcionais e intuitivas para aplicações web e mobile.
 
